@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AspNet.Identity.Dapper</id>
+    <version>1.0.0</version>
+    <authors>Mohamed Bakr</authors>
+    <owners>Mohamed Bakr</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Asp.net identity Model implmention with Dapper Micro ORM</description>
+    <releaseNotes>Inital Release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Identity Dapper IdentityModel</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
