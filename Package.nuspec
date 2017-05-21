@@ -2,17 +2,17 @@
 <package >
   <metadata>
     <id>AspNet.Identity.Dapper</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Mohamed Bakr</authors>
     <owners>Mohamed Bakr</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://github.com/MohamedBakr/AspNet.Identity.Dapper</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Asp.net identity Model implmention with Dapper Micro ORM</description>
     <releaseNotes>Inital Release.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>Identity Dapper IdentityModel</tags>
     <dependencies>
-      <dependency id="SampleDependency" version="1.0" />
+      <dependency id="Dapper" version="1.4" />
     </dependencies>
   </metadata>
 </package>
